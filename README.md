@@ -1,4 +1,4 @@
-# 🏗️ Data Warehouse Setup – `DataWarehouseAnalytics`(from wwatching DataByBara)
+# 🏗️ Data Warehouse Setup – `DataWarehouseAnalytics`(from watching DataByBara)
 
 This project contains a full SQL Server script to **create and initialize a data warehouse environment** named `DataWarehouseAnalytics`.  
 It demonstrates practical **database design, schema management, and analytics view creation** using T-SQL — suitable for portfolio or production demonstration.
